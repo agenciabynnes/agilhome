@@ -6396,7 +6396,7 @@ $$('#cadastro-teste').on('click', function(){
 
             $$idcondominio = $$idcondominioteste;
             $$idbloco = $$idblocoteste;
-            $$iddomicilio = $$iddomicilio;
+            $$iddomicilio = $$iddomicilioteste;
             $$txtNomeAddMorador = $$('#txtnomeaddmoradorteste').val();
             $$txtEmailAddMorador = $$('#txtemailaddmoradorteste').val();
             $$cellPhoneaddMorador = $$('#cellphoneaddmoradorteste').val();
