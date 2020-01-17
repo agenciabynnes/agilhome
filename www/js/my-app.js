@@ -67,6 +67,9 @@ var tabindex = 1;
 var bannerview = 0;
 var atualizamaptime;
 var alertadechegadahometime;
+var $$idcondominioteste = "101";
+var $$idblocoteste = "2325";
+var $$iddomicilioteste = "12415";
 
 logado();
 
@@ -6391,9 +6394,9 @@ $$('#cadastro-teste').on('click', function(){
         
         if ($$('#txtcodcondominio').val()=="") {
 
-            $$idcondominio = "37";
-            $$idbloco = "1924";
-            $$iddomicilio = "7595";
+            $$idcondominio = $$idcondominioteste;
+            $$idbloco = $$idblocoteste;
+            $$iddomicilio = $$iddomicilio;
             $$txtNomeAddMorador = $$('#txtnomeaddmoradorteste').val();
             $$txtEmailAddMorador = $$('#txtemailaddmoradorteste').val();
             $$cellPhoneaddMorador = $$('#cellphoneaddmoradorteste').val();
