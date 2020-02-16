@@ -84,6 +84,7 @@
 }
 .badge {
 border-radius: 50%;
+width: 24px;
     height: 24px;
     line-height: 24px;
     top: 20px;
@@ -91,7 +92,7 @@ border-radius: 50%;
     position: absolute;
 }
 .menuhome .item-link img {
-    width: 30%;
+    width: 70px;
     padding-top: 25px;
 }
 .list li a img {
