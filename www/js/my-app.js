@@ -8670,9 +8670,9 @@ function comuncomunicadocont(id,push,eq){
                             //subtrair badge tab
                             $(".badgecomuncondominio span").html(parseInt($(".badgecomuncondominio span").text())-1);
                         }
-                        if ($(".badgecomunicado span").html()!="") {
+                        if ($(".badgecomunicado").next().html()!="") {
                             //subtrair badge icon
-                            $(".badgecomunicado span").html(parseInt($(".badgecomunicado span").text())-1);
+                            $(".badgecomunicado").next().html(parseInt($(".badgecomunicado").next().text())-1);
                         }
                     }
                 }
@@ -9689,9 +9689,9 @@ function comunportariacont(id,push,eq){
                             //subtrair badge tab
                             $(".badgecomunportaria span").html(parseInt($(".badgecomunportaria span").text())-1);
                         }
-                        if ($(".badgecomunicado span").html()!="") {
+                        if ($(".badgecomunicado").next().html()!="") {
                             //subtrair badge icon
-                            $(".badgecomunicado span").html(parseInt($(".badgecomunicado span").text())-1);
+                            $(".badgecomunicado").next().html(parseInt($(".badgecomunicado").next().text())-1);
                         }
                         //subtrair badges comunicado portaria home
                         if ($(".badgecomunportariahome span").html()!="") {
@@ -10564,9 +10564,9 @@ function comunmoradorcont(id,push,eq){
                             //subtrair badge tab
                             $(".badgecomunmorador span").html(parseInt($(".badgecomunmorador span").text())-1);
                         }
-                        if ($(".badgecomunicado span").html()!="") {
+                        if ($(".badgecomunicado").next().html()!="") {
                             //subtrair badge icon
-                            $(".badgecomunicado span").html(parseInt($(".badgecomunicado span").text())-1);
+                            $(".badgecomunicado").next().html(parseInt($(".badgecomunicado").next().text())-1);
                         }
                     }
                 }
