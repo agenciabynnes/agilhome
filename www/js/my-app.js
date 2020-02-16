@@ -1919,7 +1919,7 @@ function modulos(){
                             localStorage.setItem("labelmorador", data.legend.moradorlegend);
                             $(".labelmorador").html(localStorage.getItem("labelmorador"));
 
-                            $(".labelmoradoricon").html('<i class="icon fa fa-users fa-3x"></i><br>CADASTRO DE<br>'+data.legend.moradorlegend.toUpperCase());
+                            $(".labelmoradoricon").html('<i class="icon fa fa-users fa-3x color-greenlight"></i><br>CADASTRO DE<br>'+data.legend.moradorlegend.toUpperCase());
                             $(".labelmoradortab").html('<i class="icon fa badgecomunmorador"></i>'+data.legend.moradorlegend);
                             $(".labelmoradorupper").html(data.legend.moradorlegend.toUpperCase());
                             $(".labelmoradorinserirupper").html('INSERIR '+data.legend.moradorlegend.toUpperCase());

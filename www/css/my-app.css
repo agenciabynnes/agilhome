@@ -82,7 +82,18 @@
 .textbold{
 	font-weight: bold;
 }
+.menuhome .item-link img {
+    width: 30%;
+    padding-top: 25px;
+}
+.list li a img {
+    width: 10%;
+    padding: 12px 5px 0 0;
+}
 
+.color-greenlight{
+	color:#9af161!important;
+}
 /* infinite scroll */
 .infinite-scroll-preloader {
   margin-top:-60px;
@@ -1136,6 +1147,7 @@ transform: translate(-50%,-50%);
 
 .list li a i{
 	padding-right: 10px;
+	padding-left: 5px;
 }
 
 /* submenu */
