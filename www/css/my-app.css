@@ -82,6 +82,14 @@
 .textbold{
 	font-weight: bold;
 }
+.badge {
+border-radius: 50%;
+    height: 24px;
+    line-height: 24px;
+    top: 20px;
+    left: 55%;
+    position: absolute;
+}
 .menuhome .item-link img {
     width: 30%;
     padding-top: 25px;

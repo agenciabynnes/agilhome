@@ -461,7 +461,7 @@ function badge(){
                                         
                                         if (totalviews>0) {
                                             //coloca numero de nao visualizados
-                                            $('.badgecomunicado').html('<span class="badge bg-red">'+totalviews+'</span>');
+                                            $('.badgecomunicado').after('<span class="badge bg-red">'+totalviews+'</span>');
                                         }else{
                                             $('.badgecomunicado span').hide();
                                         }
@@ -482,7 +482,7 @@ function badge(){
                                 
                                 if (totalviews>0) {
                                     //coloca numero de nao visualizados
-                                    $('.badgecomunicado').html('<span class="badge bg-red">'+totalviews+'</span>');
+                                    $('.badgecomunicado').after('<span class="badge bg-red">'+totalviews+'</span>');
                                 }else{
                                     $('.badgecomunicado span').hide();
                                 } 
@@ -503,7 +503,7 @@ function badge(){
                         
                         if (totalviews>0) {
                             //coloca numero de nao visualizados
-                            $('.badgecomunicado').html('<span class="badge bg-red">'+totalviews+'</span>');
+                            $('.badgecomunicado').after('<span class="badge bg-red">'+totalviews+'</span>');
                         }else{
                             $('.badgecomunicado span').hide();
                         } 
@@ -514,7 +514,7 @@ function badge(){
                         
                         if (comuncomunicadonotviews>0) {
                             //coloca numero de nao visualizados
-                            $('.badgecomunicado').html('<span class="badge bg-red">'+comuncomunicadonotviews+'</span>');
+                            $('.badgecomunicado').after('<span class="badge bg-red">'+comuncomunicadonotviews+'</span>');
                         }else{
                             $('.badgecomunicado span').hide();
                         }  
@@ -651,7 +651,7 @@ function badge(){
                     }
 
                     if (viewsocorrencias>0) {
-                        $('.badgeocorrencia').html('<span class="badge bg-red">'+viewsocorrencias+'</span>');
+                        $('.badgeocorrencia').after('<span class="badge bg-red">'+viewsocorrencias+'</span>');
                     }else{
                         $('.badgeocorrencia span').hide();
                     }
