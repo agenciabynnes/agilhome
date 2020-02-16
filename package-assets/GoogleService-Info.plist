@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>230054065669-r2nnsiahgar6hp49hqq8e8nivnmmvn4j.apps.googleusercontent.com</string>
+	<string>901692791555-rmveb8eajvc13dhve3p27urmugtk431d.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.230054065669-r2nnsiahgar6hp49hqq8e8nivnmmvn4j</string>
+	<string>com.googleusercontent.apps.901692791555-rmveb8eajvc13dhve3p27urmugtk431d</string>
 	<key>API_KEY</key>
-	<string>AIzaSyB4V2ngMRBGd7HjnKKPn4YW_k30fbk3qLw</string>
+	<string>AIzaSyDr__Z_L51e6F2pxBpXhvAZRTL-9X7arD4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>230054065669</string>
+	<string>901692791555</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.connectcond.ios</string>
+	<string>com.agilhome.ios</string>
 	<key>PROJECT_ID</key>
-	<string>connectcond-498a4</string>
+	<string>agilhome-d0ec4</string>
 	<key>STORAGE_BUCKET</key>
-	<string>connectcond-498a4.appspot.com</string>
+	<string>agilhome-d0ec4.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:230054065669:ios:bdac0d5b838901d1470e6c</string>
+	<string>1:901692791555:ios:fc4166d4d2eafc69752736</string>
 	<key>DATABASE_URL</key>
-	<string>https://connectcond-498a4.firebaseio.com</string>
+	<string>https://agilhome-d0ec4.firebaseio.com</string>
 </dict>
 </plist>

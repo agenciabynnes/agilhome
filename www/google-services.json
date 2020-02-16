@@ -30,6 +30,13 @@
             {
               "client_id": "901692791555-qhi6nvghqjgcvo7sfa4kingdq823ulrv.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "901692791555-rmveb8eajvc13dhve3p27urmugtk431d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agilhome.ios"
+              }
             }
           ]
         }
